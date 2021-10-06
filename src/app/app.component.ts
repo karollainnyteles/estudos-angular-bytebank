@@ -1,4 +1,4 @@
-import { TransferenciaService } from './extrato/services/transferencia.service';
+import { TransferenciaService } from './services/transferencia.service';
 import { Component } from '@angular/core';
 import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 
